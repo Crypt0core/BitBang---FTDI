@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitBang", "BitBang\BitBang.csproj", "{B4AF3392-87A2-4859-9056-8E8CADF2ADE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AF3392-87A2-4859-9056-8E8CADF2ADE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AF3392-87A2-4859-9056-8E8CADF2ADE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AF3392-87A2-4859-9056-8E8CADF2ADE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AF3392-87A2-4859-9056-8E8CADF2ADE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0120511B-4C83-46A8-BFE3-76CC960098E7}
+	EndGlobalSection
+EndGlobal
